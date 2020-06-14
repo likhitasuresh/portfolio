@@ -1,0 +1,35 @@
+{
+    "projects": [
+        {
+            "name": "Frontida Records",
+            "image": "http://lsuresh.freevar.com/portfolio_images/frontida.PNG",
+            "description": "Frontida Records is a USC student initiative to build an Electronic Health Record system for refugees in Greece",
+            "link": "http://www.frontidarecords.org/"
+        },
+        {
+            "name": "Responsive News Site",
+            "image": "http://lsuresh.freevar.com/portfolio_images/react.PNG",
+            "description": "With the usage of APIs by The Guardian and New York Times, a site with quintessential features of a blog/news site was built using React for front end and Node.js for backend",
+            "link": "https://github.com/likhitasuresh/React-News-App"
+        },
+        {
+            "name": "Android News App",
+            "image": "http://lsuresh.freevar.com/portfolio_images/androidnews.PNG",
+            "description": "This application is an extension to the Responsive News Website mentioned above, with additional features to plot frequency charts for specific keywords as well as to display current weather conditions.",
+            "link": "https://github.com/likhitasuresh/Android-News-App"
+        },
+        {
+            "name": "Traffic Signal Optimization",
+            "image": "http://lsuresh.freevar.com/portfolio_images/traffic_gif.gif",
+            "description": "Designed a python project inculcating predictive Machine Learning algorithms to increase the efficacy of current traffic signals utilizing some commonly found datasets.",
+            "link": "https://github.com/likhitasuresh/Traffic-Signal-Optimization"
+        },
+        {
+            "name": "Android Stock Market App",
+            "image": "http://lsuresh.freevar.com/portfolio_images/stock.png",
+            "description": "This is an  an android mobile application which stores essential details of companies regarding stock market and builds graphs according to their growth charts.",
+            "link": "https://github.com/likhitasuresh/Stock-Market-App"
+        }
+
+    ]         
+}
