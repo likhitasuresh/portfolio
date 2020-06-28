@@ -2,34 +2,90 @@
     "projects": [
         {
             "name": "Frontida Records",
-            "image": "http://lsuresh.freevar.com/portfolio_images/frontida.PNG",
-            "description": "Frontida Records is a USC student initiative to build an Electronic Health Record system for refugees in Greece",
-            "link": "http://www.frontidarecords.org/"
+            "image": "http://lsuresh.freevar.com/portfolio_images/frontida.png",
+            "description": "Frontida Records is a USC student initiative to build an Electronic Health Record system for refugees in Greece. It seeks to become Greece’s first free EHR system for refugees. Frontida solves this in two ways: by creating a provider portal tailored to physicians working in refugee camps; and launching a mobile patient portal to allow refugees to carry their medical records everywhere they travel.",
+            "link": "http://www.frontidarecords.org/",
+            "period": "March 2020 - Present"
         },
         {
             "name": "Responsive News Site",
-            "image": "http://lsuresh.freevar.com/portfolio_images/react.PNG",
-            "description": "With the usage of APIs by The Guardian and New York Times, a site with quintessential features of a blog/news site was built using React for front end and Node.js for backend",
-            "link": "https://github.com/likhitasuresh/React-News-App"
+            "image": "http://lsuresh.freevar.com/portfolio_images/react.gif",
+            "description": "With the usage of APIs by The Guardian and New York Times, a site with quintessential features of a blog/news site was built using React for front end and Node.js for backend.",
+            "link": "https://github.com/likhitasuresh/React-News-App",
+            "period": "March 2020 - April 2020"
         },
         {
             "name": "Android News App",
-            "image": "http://lsuresh.freevar.com/portfolio_images/androidnews.PNG",
-            "description": "This application is an extension to the Responsive News Website mentioned above, with additional features to plot frequency charts for specific keywords as well as to display current weather conditions.",
-            "link": "https://github.com/likhitasuresh/Android-News-App"
+            "image": "http://lsuresh.freevar.com/portfolio_images/news.gif",
+            "description": "This Android application is an extension to the Responsive News Website mentioned above, with additional features to plot frequency charts for specific keywords as well as to display current weather conditions. This application was built using Java.",
+            "link": "https://github.com/likhitasuresh/Android-News-App",
+            "period": "April 2020 - May 2020"
         },
         {
             "name": "Traffic Signal Optimization",
             "image": "http://lsuresh.freevar.com/portfolio_images/traffic_gif.gif",
-            "description": "Designed a python project inculcating predictive Machine Learning algorithms to increase the efficacy of current traffic signals utilizing some commonly found datasets.",
-            "link": "https://github.com/likhitasuresh/Traffic-Signal-Optimization"
+            "description": "Designed a python project inculcating predictive Machine Learning algorithms to increase the efficacy of current traffic signals utilizing some commonly found datasets. The favoured algorithm for this project was Random Forest Algorithm.",
+            "link": "https://github.com/likhitasuresh/Traffic-Signal-Optimization",
+            "period": "Jan 2019 - May 2019"
         },
         {
             "name": "Android Stock Market App",
-            "image": "http://lsuresh.freevar.com/portfolio_images/stock.png",
-            "description": "This is an  an android mobile application which stores essential details of companies regarding stock market and builds graphs according to their growth charts.",
-            "link": "https://github.com/likhitasuresh/Stock-Market-App"
+            "image": "http://lsuresh.freevar.com/portfolio_images/stock.gif",
+            "description": "This is an android mobile application which stores essential details of companies regarding stock market and builds graphs according to their growth charts. Growth charts are plotted for varying durations, such as 1 month, 3 months and 1 year.",
+            "link": "https://github.com/likhitasuresh/Stock-Market-App",
+            "period": "August 2018 - November 2018"
+        },
+        {
+            "name": "Mars Rover",
+            "image": "http://lsuresh.freevar.com/portfolio_images/mars.png",
+            "description": "This is a Java program developed to navigate a rover through the terrains of Mars. The objective of this application is to find the shortest path from source to destination using three famous algorithms, namely BFS, A* and Djikstra's Algorithm.",
+            "link" : "https://github.com/likhitasuresh/Mars-Rover",
+            "period": "August 2019 - September 2019"
+        },
+        {
+            "name": "Halma - The Game",
+            "image": "http://lsuresh.freevar.com/portfolio_images/halma.gif",
+            "description": "This is a Java program developed to play a game of Halma with another agent. This agent was coded in Java with speed as priority. The application utilizes Minmax algorithm (with alpha beta pruning), and the make or break moves are mainly determined by the depth of the Minmax tree.",
+            "link" : "https://github.com/likhitasuresh/Halma",
+            "period": "August 2019 - September 2019"
+        },
+        {
+            "name": "Spam Detection",
+            "image": "http://lsuresh.freevar.com/portfolio_images/spam.png",
+            "description": "This is a Python project focused on the Naiver Bayes Classifier to perform a simple email spam detection.",
+            "link" : "https://github.com/likhitasuresh/Spam-Detection",
+            "period": "February 2020 - March 2020"
+        },
+        {
+            "name": "Dialog Act Labeling",
+            "image": "http://lsuresh.freevar.com/portfolio_images/dialog.png",
+            "description": "This project was aimed at performing one of the Natural Language Processing fundamental processes. This project utilizes pycrfsuite to label utterances with corresponding dialog acts in Python.",
+            "link" : "https://github.com/likhitasuresh/Dialog-Act-Labeling",
+            "period": "March 2020 - April 2020"
+        },
+        {
+            "name": "Software Engineering Internship at HAL - MCSRDC",
+            "image": "http://lsuresh.freevar.com/portfolio_images/hal2.png",
+            "description": "The project assigned to us was to compute arithmetic operations required for Light Comabt Airplanes without a numeric co-processor. ",
+            "link" : "https://hal-india.co.in/Mission%20%20Combat%20System/M__153",
+            "period": "March 2019 - April 2019"
+        },
+        {
+            "name": "Web Development Internship at HAL - RWRDC",
+            "image": "http://lsuresh.freevar.com/portfolio_images/hal1.png",
+            "description": "The project developed and executed under the guidance of the IT department in the MCSRDC division of HAL was of a Server Software Licence Monitoring System for in-house use.",
+            "link" : "https://hal-india.co.in/Rotary%20Wing/M__326",
+            "period": "June 2017 - July 2017"
+        },
+        
+        {
+            "name": "Periodic Table",
+            "image": "http://lsuresh.freevar.com/portfolio_images/periodic.gif",
+            "description": "This is a basic C++ app developed to display the periodic table and provide physical properties of elements in the periodic table. This app also offered clear distinction of various types of elements in the periodic table.",
+            "link" : "https://github.com/likhitasuresh/Periodic-Table",
+            "period": "January 2016 - May 2016"
         }
+
 
     ]         
 }
